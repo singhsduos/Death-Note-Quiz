@@ -1,5 +1,5 @@
 # Do-You-Know-Me-Quiz
-This is a fun NodeJS CLI quiz application. It can be played to test whether you know me well or not.
+This is a fun NodeJS CLI quiz application. It can be played to test whether you know about DEATH-NOTE or not.
 
 
 ### <a href="https://replit.com/@NeeleshSingh3/Death-Note-Quiz-NodeJs-CLI-Quiz-App?embed=1&output=1" target="_blank">**Visit Now 🚀**</a>
