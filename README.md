@@ -1,4 +1,4 @@
-# Do-You-Know-Me-Quiz
+# Death-Note-Quiz
 This is a fun NodeJS CLI quiz application. It can be played to test whether you know about DEATH-NOTE or not.
 
 
