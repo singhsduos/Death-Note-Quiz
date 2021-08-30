@@ -27,3 +27,5 @@ This is a fun NodeJS CLI quiz application. It can be played to test whether you 
 
 
 ## Demo-video
+https://user-images.githubusercontent.com/32032008/131323957-f728a7a2-690d-4688-a6ae-4c735689f84e.mp4
+
